@@ -1,0 +1,27 @@
+[
+  {
+    "id": "254659a8-46d3-4eba-8b97-b9eed6d4d5c6",
+    "description": "Hacer mi tarea en python.",
+    "priority": 3,
+    "created_at": "2025-08-06T23:19:54.645099",
+    "completed": true
+  },
+  {
+    "id": "c4ba6287-e263-4540-8af9-217fdde85244",
+    "description": "Homework2",
+    "priority": 3,
+    "created_at": "2025-08-07T08:55:09.194343",
+    "completed": true,
+    "due_date": "2025-04-07T00:00:00",
+    "type": "timed"
+  },
+  {
+    "id": "48fac28f-7d02-48ba-8a14-71e172fa559e",
+    "description": "Nicki",
+    "priority": 1,
+    "created_at": "2025-08-07T14:13:28.322605",
+    "completed": true,
+    "interval_days": 7,
+    "type": "recurring"
+  }
+]
