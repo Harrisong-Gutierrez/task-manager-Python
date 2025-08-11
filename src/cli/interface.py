@@ -63,7 +63,8 @@ class CLI:
                 task = TimedTask(description, due_date, priority)
             except ValueError as e:
                 print(f"Error: {e}")
-                return
+            return   
+        
         elif task_type == '3':
             interval_str = input("Intervalo en días: ")
             try:

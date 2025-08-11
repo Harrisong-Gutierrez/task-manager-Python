@@ -1,8 +1,8 @@
 import json
 from pathlib import Path
 from datetime import datetime
-from ..models.task import Task
-from ..models.task_types import TimedTask, RecurringTask
+from models.task import Task
+from models.task_types import TimedTask, RecurringTask
 
 class TaskManager:
     def __init__(self, file_path='data/tasks.json'):
